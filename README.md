@@ -1,8 +1,9 @@
 ![Stanley (2)](https://user-images.githubusercontent.com/119549394/209550981-e5f97a03-7398-4162-9762-a048a33738d3.gif)
 
-### Why, Hello there 👋
+## Why, Hello there 👋
 
 I'm Stanley, a software engineer from Sydney. I enjoy programming, being creative and hiking. 
+![carbon (4)](https://user-images.githubusercontent.com/119549394/209656693-8f0fc1ca-90e7-40a9-8134-36ce9191f94d.png)
 
 #### 👀 I’m interested in: 
 
@@ -18,13 +19,14 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
           
 #### 📫 Let's git in touch:
 
-      Thankfully, i'm not based from a Galaxy, far, far away! So, you can easily reach me on:
+      Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
       
                     - LinkedIn
                     - Email
                     - Github
           
 ## Testimonials:
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⠤⠐⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡌⡦⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣼⡊⢀⠔⠀⠀⣄⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣄⣀⠀
@@ -53,6 +55,7 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 ⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣉⢁⣴⣿⣿⣿⣾⡇⢀⣀⣼⡿⣿⣷⡌⢻⣦⡀⠀⠈⠙⠛⠿⠏⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⡄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠛⢯⡉⠉⠉⠉⠉⠛⢼⣿⠿⠿⠦⡙⣿⡆⢹⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠄⠈⠻⠿⠿⠿⠿⠿⠿⠛⠛⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠻⠿⠿⠿⠿⠟⠉⠀⠀⠤⠴⠶⠌⠿⠘⠿⠿⠿⠿⠶⠤⠀⠀⠀⠀⠀⠀
+
 
 <!---
 StanleyY7/StanleyY7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
