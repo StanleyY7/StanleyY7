@@ -1,4 +1,4 @@
-![Stanley (2)](https://user-images.githubusercontent.com/119549394/209550981-e5f97a03-7398-4162-9762-a048a33738d3.gif)
+![Stanley (3)](https://user-images.githubusercontent.com/119549394/209762630-64d6018c-9520-423f-9567-53c0ce4550d4.gif)
 
 ## Why, Hello there 👋
 
