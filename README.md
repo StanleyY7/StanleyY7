@@ -1,5 +1,3 @@
-![Stanley (3)](https://user-images.githubusercontent.com/119549394/209762630-64d6018c-9520-423f-9567-53c0ce4550d4.gif)
-
 ## Why, Hello there 👋
 
 I'm Stanley, a software engineer from Sydney. I enjoy programming, being creative and hiking. 
