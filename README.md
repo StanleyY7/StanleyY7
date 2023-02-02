@@ -13,7 +13,6 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
           - React
           - Javascript
-          - Using AI to improve workflow.
           
 #### 📫 Let's git in touch:
 
@@ -21,7 +20,6 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
       
                     - LinkedIn
                     - Email
-                    - Github
           
 ## Testimonials:
 
