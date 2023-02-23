@@ -1,23 +1,21 @@
 ![Stanley (6)](https://user-images.githubusercontent.com/119549394/220858039-17074e5a-7aab-4b56-a487-499e460b5141.gif)
 
-## Why, Hello there 👋
+## Why, Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I'm Stanley, a software engineer from Sydney. I enjoy programming, being creative and hiking.
 
 ![carbon (10)](https://user-images.githubusercontent.com/119549394/220864627-4006e3cb-64d3-48a9-be61-cf6a8e520184.png)
 
-#### 👀 I’m interested in: 
+#### 📈My Github Stats:
 
-          - Exceeding targets.
-          - Learning new things.
-          - Making unique implementations of projects. 
-                    
+![My Stats](http://github-readme-streak-stats.herokuapp.com/?user=StanleyY7&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)
+
+
 #### 📫 Let's git in touch:
 
-      Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
+Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
       
-                    - LinkedIn
-                    - Email
+<a href="https://www.linkedin.com/in/stanleyyu-ccs/" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="stanley-linkedIn" height="40" width="40" /></a>
 
 <!---
 StanleyY7/StanleyY7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
