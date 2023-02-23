@@ -6,7 +6,7 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
 ![carbon (6)](https://user-images.githubusercontent.com/119549394/220872571-342d3754-3b00-48da-a68e-255c91cd3836.png)
 
-### 📫 Let's git in touch:
+## 📫 Let's git in touch:
 
 Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
       
