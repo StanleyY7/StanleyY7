@@ -4,7 +4,7 @@
 
 I'm Stanley, a software engineer from Sydney. I enjoy programming, being creative and hiking.
 
-![carbon (6)](https://user-images.githubusercontent.com/119549394/220860447-db692fb3-656a-4d85-92b2-0d9de1a128a7.png)
+![carbon (10)](https://user-images.githubusercontent.com/119549394/220864627-4006e3cb-64d3-48a9-be61-cf6a8e520184.png)
 
 #### 👀 I’m interested in: 
 
