@@ -22,6 +22,10 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
 <span> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></span>
 
+## 🤝 I have contributed to:
+
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> Badges 4: </a> A github repo consisting of badges to use for Github Readmes, my contribution was creating/adding the Cucumber Badge (in testing frameworks, in the Badges 4 repo it was pull request #555 which has been merged to their main branch). 
+
 ## 📫 Let's git in touch:
 
 Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
