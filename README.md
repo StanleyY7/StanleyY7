@@ -26,7 +26,9 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
 ## 🤝 I have contributed to:
 
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> Badges 4: </a> A github repo consisting of badges to use for Github Readmes, my contribution was creating/adding the Cucumber Badge (in testing frameworks, in the Badges 4 repo it was pull request #555 which has been merged to their main branch). 
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> Badges 4: </a> An open-source project that is a github repository consisting of badges for anyone to use for Github Readmes, my contribution was creating/adding the Cucumber Badge (in testing frameworks, in the Badges 4 repo it was pull request #555 which has been merged to their main branch). 
+
+<a href="https://github.com/fireship-io/fireship.io"> Fireship.io: </a>  An open-source project that is used/created by Fireship (a popular Youtube creator who creates programming-related educational content) to handle paid subscriptions for programming content/courses. My contributions have been in the form of checking issues (i.e. commenting if issues/tickets have already been resolved), proposing solutions to more complex tickets (i.e. tickets involving authentication and transactions) and resolving minor issues/tickets (i.e. typos in educational code/examples, general typos in displayed content etc...).
 
 </br>
 
@@ -35,6 +37,7 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
       
 <a href="https://www.linkedin.com/in/stanleyyu-ccs/" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="stanley-linkedIn" height="40" width="40" /></a>
+
 
 <!---
 StanleyY7/StanleyY7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
