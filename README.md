@@ -26,7 +26,7 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
 ## 🤝 I have contributed to:
 
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> Badges 4: </a> An open-source project that is a github repository consisting of badges for anyone to use for Github Readmes, my contribution was creating/adding the Cucumber Badge (in testing frameworks, in the Badges 4 repo it was pull request #555 which has been merged to their main branch). 
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> Badges 4: </a> An open-source project that is a github repository consisting of badges for anyone to use for Github Readmes, my contribution was creating/adding the Cucumber Badge (in testing frameworks, in the Badges 4 repo it was pull request #555 which has been merged to their main branch. I have also made color edits PR #569 and added Java badge PR #568). 
 
 <a href="https://github.com/fireship-io/fireship.io"> Fireship.io: </a>  An open-source project that is used/created by Fireship (a popular Youtube creator who creates programming-related educational content) to handle paid subscriptions for programming content/courses. My contributions have been in the form of checking issues (i.e. commenting if issues/tickets have already been resolved), proposing solutions to more complex tickets (i.e. tickets involving authentication and transactions) and resolving minor issues/tickets (i.e. typos in educational code/examples, general typos in displayed content etc...).
 
