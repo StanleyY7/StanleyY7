@@ -36,7 +36,7 @@ I'm Stanley, a software engineer from Sydney. I enjoy programming, being creativ
 
 Thankfully, i'm not from a Galaxy, far, far away! So, you can easily reach me on:
       
-<a href="https://www.linkedin.com/in/stanleyyu-ccs/" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="stanley-linkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/stanleyyu-swe/" target="blank"><img src="https://img.icons8.com/fluency/512/linkedin.png" alt="stanley-linkedIn" height="40" width="40" /></a>
 
 
 <!---
